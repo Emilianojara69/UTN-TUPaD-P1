@@ -1,0 +1,4 @@
+Ejercicio 2 del trabajo practico.
+
+Una vez creado el repositorio con el fork, 
+y creado este archivo ahora voy a proceder a realizar el commit, el git push.
